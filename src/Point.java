@@ -50,9 +50,9 @@ public class Point {
     /**
      * Set method for the variable x and y
      */
-    public void setXY() {
-        setX(this.x) ;
-        setY(this.y); ;
+    public void setXY(double x, double y) {
+        this.x = x;
+        this.y = y;
     }
 
     /**

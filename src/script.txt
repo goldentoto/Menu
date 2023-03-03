@@ -1,0 +1,30 @@
+Script started on 2023-02-10 15:30:13-07:00 [TERM="xterm-256color" TTY="/dev/pts/13" COLUMNS="120" LINES="30"]
+[?2004hbash-5.1$ javac Ts\[K[Kest.java
+[?2004l[?2004hbash-5.1$ java Test
+[?2004lEnter x coordinate: 3
+Enter y coordinate: 5
+Enter delta x : 6
+Enter delta y : 1
+ID of Point 1 is: 1
+The coordinates of Point 1 are (9.0,6.0)
+Enter x coordinate: 7
+Enter y coordinate: 3
+ID of Point 2 is: 2
+The coordinates of Point 2 are (13.0,4.0)
+Enter x coordinate: 15
+Enter y coordinate: 32 
+ID of Point 1 is: 3
+The coordinates of Point 3 are (21.0,4.0)
+Number of active instances 3
+The distance from the first point to this one: 10.816653826391969
+The distance from the second point to this one: 13.601470508735444
+The distance from the third point to this one: 21.37755832643195
+The coordinates of Point Avg are (8.3333333333333348.333333333333334)
+ID of Point Avg is: 5
+Number of active instances 5
+Deleting the first three objects...
+The number of active instances now are 2
+[?2004hbash-5.1$ exis[Kt
+[?2004lexit
+
+Script done on 2023-02-10 15:31:38-07:00 [COMMAND_EXIT_CODE="0"]
